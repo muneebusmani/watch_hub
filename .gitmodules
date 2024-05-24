@@ -1,1 +1,4 @@
 
+[submodule "watch_hub_api/project"]
+	path = watch_hub_api/project
+	url = https://github.com/muneebusmani/watch_hub_api
